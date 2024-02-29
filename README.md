@@ -1,2 +1,2 @@
 # Skynoveau Technology
-skynovea.in
+skynoveau.in
